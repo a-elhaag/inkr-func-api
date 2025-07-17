@@ -18,7 +18,7 @@ This Azure Functions app provides a REST API for Azure OpenAI chat completions.
    Edit `.env` with your actual values:
    ```
    AZURE_OPENAI_API_KEY=your-actual-api-key
-   AZURE_OPENAI_ENDPOINT=https://inkr-openai.openai.azure.com/
+   AZURE_OPENAI_ENDPOINT=your-actual-EndPoint
    AZURE_OPENAI_DEPLOYMENT=gpt-4.1-mini
    AZURE_OPENAI_API_VERSION=2024-12-01-preview
    ```
